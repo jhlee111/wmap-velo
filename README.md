@@ -7,6 +7,7 @@
 
   ```bash
   npm install wmap-velo
+  ```
 
   Usage
 
