@@ -1,5 +1,5 @@
 {
-  "name": "@jhlee111/wmap-velo",
+  "name": "wmap-velo",
   "version": "0.1.0",
   "description": "A utility for Wix Velo that provides convenient element selection using proxy-based syntax",
   "main": "index.js",

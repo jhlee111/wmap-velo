@@ -1,0 +1,10 @@
+----- CLI crash report at 2025-08-15T18:27:07.114Z
+Error Trace
+FailedToIdentifyProgramFlow: FailedToIdentifyProgramFlow
+    at _Command.<anonymous> (/Users/johndev/.nvm/versions/node/v22.11.0/lib/node_modules/@wix/cli/src/program.ts:73:15)
+    at _Command.emit (node:events:518:28)
+    at _Command._parseCommand (/Users/johndev/.nvm/versions/node/v22.11.0/lib/node_modules/node_modules/commander/lib/command.js:1607:14)
+    at _Command.parseAsync (/Users/johndev/.nvm/versions/node/v22.11.0/lib/node_modules/node_modules/commander/lib/command.js:1104:16)
+    at <anonymous> (/Users/johndev/.nvm/versions/node/v22.11.0/lib/node_modules/@wix/cli/src/index.tsx:80:39)
+Error Info
+{}
