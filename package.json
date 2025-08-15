@@ -1,0 +1,28 @@
+{
+  "name": "@jhlee111/wmap-velo",
+  "version": "0.1.0",
+  "description": "A utility for Wix Velo that provides convenient element selection using proxy-based syntax",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wix",
+    "velo",
+    "wix-velo",
+    "selector",
+    "dom",
+    "utility"
+  ],
+  "author": "John Lee",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/wmap"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ]
+}
