@@ -30,7 +30,7 @@
   });
   ```
 
-!(assets/wmap_autocomplete.png)
+![auto complete in vscode](assets/wmap_autocomplete.png)
 
 ## Features
 
