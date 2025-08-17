@@ -6,7 +6,7 @@
 ## Installation
 
   ```bash
-  npm install wmap-velo
+  wix install wmap-velo
   ```
 
   Usage
